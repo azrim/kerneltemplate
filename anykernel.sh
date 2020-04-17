@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Hentai kernel by azrim
+kernel.string=SiLonT kernel by azrim89
 do.devicecheck=1
 do.modules=0
 do.systemless=0
