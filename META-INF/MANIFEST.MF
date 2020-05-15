@@ -2,26 +2,26 @@ Manifest-Version: 1.0
 Created-By: 1.0 (Android SignApk)
 
 Name: META-INF/com/google/android/updater-script
-SHA1-Digest: ZQie4rHBozuo1iAamIR0ggqDdmI=
+SHA1-Digest: surH1Bs4hR30JclyYkFBB7d7164=
 
 Name: Image.gz-dtb
-SHA1-Digest: 7uijRnMx0Hw2MTO/vHyuhXMZiGI=
+SHA1-Digest: KJGVC+UNEy+mMJZIQnX1O7NIE+U=
 
 Name: anykernel.sh
-SHA1-Digest: +Enz8s+I5qd3bCvE53fZcFaAXYo=
+SHA1-Digest: LnSh+UmvEj++SM27JxAX/Fjdr7U=
 
 Name: tools/ak3-core.sh
-SHA1-Digest: 7BwcB8rU0QpLpMTZ8OHahns1RXE=
+SHA1-Digest: sAWoybfCOEgPNn0aunHZAoYoktc=
 
 Name: META-INF/com/google/android/update-binary
-SHA1-Digest: N+FlcsWahXnFYm4FRJWctfIY7LQ=
+SHA1-Digest: NrMeKeucIk/WWkGkrwdg5IgOWOE=
 
 Name: tools/magiskboot
-SHA1-Digest: xIenhjNjVG12O/PVNcGW6N2zh5A=
+SHA1-Digest: o+uj7lPvEmoSW7qtKG0TVVpKtWg=
 
 Name: tools/busybox
 SHA1-Digest: cmOKmjpYfdjzaus54MMPO9U6bxc=
 
 Name: tools/magiskpolicy
-SHA1-Digest: gOD3zHXDUS0YRJfSlahw/9rbFlI=
+SHA1-Digest: tJcF5Z4R5Q+90+cIqZ2PFrG0V14=
 
