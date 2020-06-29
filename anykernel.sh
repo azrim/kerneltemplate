@@ -6,11 +6,12 @@
 # begin properties
 properties() { '
 kernel.string=SiLonT kranul by Azrim
-do.devicecheck=0
+do.devicecheck=1
 do.modules=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=ginkgo
+device.name2=willow
 device.name3=
 device.name4=
 device.name5=
