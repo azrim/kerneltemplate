@@ -5,7 +5,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=SiLonT kranul by Azrim
+kernel.string=For Ginkgo/Willow
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
