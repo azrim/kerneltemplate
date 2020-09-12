@@ -5,17 +5,17 @@
 # begin properties
 properties() { '
 kernel.string=SiLonT by azrim89 @ telegram
-do.devicecheck=1
+do.devicecheck=0
 do.modules=0
 do.systemless=0
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=ginkgo
+device.name1=
 device.name2=
 device.name3=
 device.name4=
 device.name5=
-supported.versions=9
+supported.versions=10
 supported.patchlevels=
 '; } # end properties
 
