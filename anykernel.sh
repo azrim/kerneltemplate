@@ -5,17 +5,17 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=For Ginkgo/Willow
-do.devicecheck=1
+kernel.string=For REALMEK BROKEN AJG
+do.devicecheck=0
 do.modules=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=ginkgo
-device.name2=willow
+device.name1=
+device.name2=
 device.name3=
 device.name4=
 device.name5=
-supported.versions=10
+supported.versions=
 supported.patchlevels=
 '; } # end properties
 
